@@ -1,0 +1,150 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  background-color: #e3e3e3;
+  text-align: center;
+}
+
+hr {
+  border-width: 3px;
+  border-color: gray;
+  border-bottom-style: none;
+  width: 75%
+}
+
+h2 {
+  color: #0d0cb5;
+}
+
+a {
+  color: #66bfbf;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.primary-nav2 {
+  background-color: white;
+  color: black;
+  position: fixed;
+  right: 0;
+  top: 0;
+  padding: 20px;
+}
+
+.top-container {
+position: relative;
+text-align: center;
+color: white;
+}
+
+.Centered {
+  font-size: 75px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: 45%;
+  left: 35%;
+  transform: translate(-50, -50%);
+}
+
+.Centered2 {
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: 55%;
+  left: 30%;
+  transform: translate(-50, -50%);
+}
+
+.stras {
+  color: green;
+  font-weight: bold;
+  text-align: left;
+}
+
+.paa {
+  text-align: left;
+}
+
+.jpm {
+  text-align: left;
+}
+
+.edu1 {
+  margin-left: 15%;
+}
+
+.edu2 {
+  margin-left: 15%;
+}
+
+.edu3 {
+  margin-left: 15%;
+}
+
+.profile-img {
+ float: inherit;
+ margin-right: 30px;
+}
+
+.Computer {
+  width: 15%;
+  height: 15%;
+  float: left;
+  margin-right: 40px;
+}
+
+.Books {
+  width: 15%;
+  height: 15%;
+  float: right;
+}
+
+table#skills {
+  width:70%;
+  margin-left:15%;
+  margin-right:15%;
+}
+
+.skill-row2 {
+  text-align: center;
+}
+
+.btn {
+  margin-left: 20px;
+  float: center;
+  background: #0b4096;
+  background-image: -webkit-linear-gradient(top, #0b4096, #133bed);
+  background-image: -moz-linear-gradient(top, #0b4096, #133bed);
+  background-image: -ms-linear-gradient(top, #0b4096, #133bed);
+  background-image: -o-linear-gradient(top, #0b4096, #133bed);
+  background-image: linear-gradient(to bottom, #0b4096, #133bed);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc40d);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc40d);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc40d);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc40d);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc40d);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #000080;
+  padding: 40px 0 20px
+}
+
+.ed-cont {
+  color: #66bfbf;
+}
